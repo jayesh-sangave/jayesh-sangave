@@ -2,14 +2,16 @@
 
 Captain at **MIT Tech Team**.  
 Third-year **Computer Science major**.  
+ 
+**Currently:**  
+- rebuilding something that worked yesterday.
 
-
-🧠 **Side quests:**  
+**Side quests:**  
 - Experimenting with game networking and real-time systems.  
 - Automating the parts of my work I’d rather not do twice.  
  
 
-> I spend most of my time fixing features I proudly added last week.  
+> I spend most of my time fixing features I proudly added last week. 
 
 
 <!--
