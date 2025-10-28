@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi! I'm Jxy 👋  
+
+Captain at **MIT Tech Team**.  
+Third-year **Computer Science major**.  
+
+
+🧠 **Side quests:**  
+- Experimenting with game networking and real-time systems.  
+- Automating the parts of my work I’d rather not do twice.  
+ 
+
+> I spend most of my time fixing features I proudly added last week.  
+
 
 <!--
 **jayesh-sangave/jayesh-sangave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
